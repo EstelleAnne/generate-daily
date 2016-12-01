@@ -1,0 +1,219 @@
+.daily{
+    border: 1px  solid black;
+    height: 40px;
+    width: 40px;
+    cursor:pointer
+}
+.daily-view{
+    width: 590px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,.2);
+    border:1px solid #c5c5c5;
+
+}
+.title-dp{
+    height: 55px;
+    padding: 0 15px;
+    background-color: #eee;
+}
+.date-dp{
+    font-size: 14px;
+    line-height: 55px;
+    font-weight: 700;
+    float: left;
+}
+.delete-dp{
+    float: right;
+}
+.close-dp{
+    margin-top: 21px;
+    cursor: pointer;
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+    line-height: 14px;
+    vertical-align: middle;
+
+}
+.action-dp{
+    background-color: #f5f5f5;
+    height: 42px;
+    padding: 0 20px;
+}
+.setNote{
+    font-size: 12px;
+    line-height: 42px;
+    float: right;
+    color:#555;
+}
+.setBtn{
+    display: inline-block;
+    padding: 6px 18px;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    vertical-align: middle;
+    cursor:pointer;
+    border:1px solid #ddd;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+}
+.daily-form{
+    background-color: #fff;
+}
+.content-place{
+    padding: 3px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    position: relative;
+    border-radius: 3px;
+}
+.input-place{
+    position: relative;
+}
+.input-place textarea{
+    resize: none;
+    overflow: hidden;
+    height: 62px;
+    width: 96%;
+    font-size: 16px;
+    line-height: 22px;
+    color:#000;
+    outline: 0;
+    display: inline-block;
+    vertical-align: middle;
+    border:none;
+    
+}
+.count-place{
+    padding: 3px 0;
+    color: #aaa;
+    text-align: right;
+    font-size: 12px;
+    line-height: 14px;
+}
+.num-place{
+    color:#000;
+}
+.action-place{
+    padding: 5px 10px;
+    background-color: #f5f5f5;
+    font-size: 12px;
+    line-height: 14px;
+    height: 30px;
+    position: relative;
+   
+    
+}
+.list-place{
+    float: left;
+    
+    padding-left: 1px;
+    position: absolute;
+    top: 10px;
+
+    list-style: none;
+}
+.uploader-place{
+   
+    float: left;
+    display: inline;
+    margin-right: 10px;
+    position: relative;
+    cursor: pointer;
+    list-style: none;
+
+}
+.uploader-place a{
+    color: #aaa;
+    font-size: 12px;
+    line-height: 17px;
+    cursor: pointer;
+    text-decoration: none;
+    outline:0;
+}
+.upload-component{
+
+}
+.uploader-node{
+    padding-left: 13px;
+    padding-bottom: 1px;
+    line-height: 17px;
+
+}
+.member-place{
+    position: relative;
+ float: left;
+ display: inline;
+    margin-right: 10px;
+}
+.member-place a{
+    color: #aaa;
+    font-size: 12px;
+    line-height: 17px;
+}
+.icon-at{
+    float: left;
+    
+
+}
+.btn-sure{
+    float:right;
+    line-height: 26px;
+    padding: 0 12px;
+    font-size: 12px;
+    border: 1px solid #4797de;
+    border-radius: 3px;
+}
+.quna_pm{
+    float: right;
+    margin-right: 15px;
+    margin-top: 6px;
+    color: #555;
+    vertical-align: middle;
+    cursor:pointer;
+
+}
+.qunartipwrap{
+    position: absolute;
+    z-index: 999;
+    top: 143;
+    left: 293px;
+    display: block;
+    width: 220px;
+    border: 1px solid #d7d7d7;
+    background-color: #fff;
+}
+.upload_type{
+    position: absolute;
+    top: 25px;
+    left: -9px;
+    z-index: 1000;
+    display: block;
+    background-color: #fff;
+    border: 1px solid #c5c5c5;
+    box-shadow: 0 0 5px rgba(0,0,0,.2);
+    width: 80px;
+    padding: 5px 0;
+}
+.upload_new_file{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #555;
+    position: relative;
+
+}
+.fang_cloud_btn{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #555;
+}
+.dcontent-1{
+    border:1px solid #2d83cf;
+   
+    
+}
